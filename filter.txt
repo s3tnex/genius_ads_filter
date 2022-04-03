@@ -3,3 +3,6 @@ genius.com##.SectionLeaderboard__Container-sc-1pjk0bw-0, .dZRqIl
 genius.com##.InnerSectionAd__Container-i9knyt-0, .dfxGRD, .Lyrics__HeaderAd-sc-1ynbvzw-21, .duqjjs
 genius.com##.InreadAdmobile__Container-sc-1ynadvw-0, .hoxJpJ
 genius.com##.AppleMusicPlayer__Iframe-uavgzr-3, .hdIrxS
+genius.com##.LeaderboardOrMarquee__Sticky-yjd3i4-0, .dIgauN, .Leaderboard-da326u-0, .cJGzHp
+genius.com##.InreadAddesktop__Container-j86wd6-0, .focHlE
+genius.com##.Lyrics__Footer-sc-1ynbvzw-2, .lYpBt
